@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544020892 source:c:\users\mike\desktop\itsa\math4\main.c
+	<stdio.h>
+	<stdlib.h>
+

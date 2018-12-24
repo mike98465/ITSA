@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544015692 source:c:\users\mike\desktop\itsa\ar21\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
